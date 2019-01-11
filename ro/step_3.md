@@ -1,4 +1,4 @@
-﻿## Adaugarea și stergerea blocurilor de cod
+﻿## Adaugarea și ștergerea blocurilor de cod
 
 Minunat! Ai scris primul tău program Scratch! Timpul să înveți mai multe despre cum să adaugi și să ștergi cod în Scratch. Codul Scratch este făcut din **blocuri** ca astea:
 
