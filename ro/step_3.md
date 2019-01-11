@@ -50,7 +50,7 @@ Blocurile de cod rulează de sus în jos, așa că **ordinea** în care sunt pus
 
 ![](images/code6.png)
 
-+ Incearca să adaugi, ștergi, și să dai **undo** la câteva blocuri de cod!
++ Încearcă să adaugi, ștergi, și să dai **undo** la câteva blocuri de cod!
 
 ### Pune totul laolaltă
 
@@ -64,7 +64,7 @@ Acum ști cum să manevrezi codul și să faci lucruri să se întâmple, este t
 
 ![](images/code7.png)
 
-Ar trebui să vezi Pisica mergând în linie dreaptă... nu chiar ce am vrut, nu?
+Ar trebui să vezi Pisica mergând în linie dreaptă... nu chiar ce ai vrut, nu?
 
 Dacă apeși de prea multe ori pe steag și Pisica o ia la fugă poți să o tragi înapoi!
 
