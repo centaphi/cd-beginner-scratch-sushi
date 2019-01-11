@@ -55,7 +55,7 @@ Blocul `dacă atingi marginea întoarce-te`{:class="block3motion"} verifica dac�
 
 Însă asta ar rezultă într-un pește cu sus-ul în jos, așa că îţi trebuie un bloc `setează stilul răsuciri`{:class="block3motion"}.
 
-+ Schimba codul și setează stilul de răsucire în `stânga-dreapta`{:class="block3motion"} la începutul programului pentru acest personaj:
++ Schimba codul și setează stilul de răsucire în `stânga-dreaptă`{:class="block3motion"} la începutul programului pentru acest personaj:
 
 ![blocks_1546569180_992167](images/blocks_1546569180_992167.png)
 
@@ -74,7 +74,7 @@ E mai bine, dar încă este prea multă predictibilitate în mișcările peștel
 title: Ce este o operaţie?
 ---
 
-**Operaţile** primesc una sau mai multe valori (că numere, text, `Adevărat/Fals`) și dau înapoi o singură valoare. Vei ști ce fel de valoare vor rezultă din forma blocului: cele rotunjite rezultă număr sau text, iar cele ascuţite `Adevărat/Fals`.
+**Operaţile** primesc una sau mai multe valori (ca numere, text, `Adevărat/Fals`) și dau înapoi o singură valoare. Vei ști ce fel de valoare vor rezultă din forma blocului: cele rotunjite rezultă număr sau text, iar cele ascuţite `Adevărat/Fals`.
 
 ![blocks_1546569183_229207](images/blocks_1546569183_229207.png)
 

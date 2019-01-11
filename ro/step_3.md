@@ -19,13 +19,13 @@ Toate blocurile din categoria pe care ai apăsat apar într-o listă:
 
 ![](images/code2b.png)
 
-Apasă pe blocul pe care îl vrei, și trage-l în spriteul curent. Odată ce e acolo, îl poți aranja și conecta cu alte blocuri.
+Apasă pe blocul pe care îl vrei, și trage-l în panoul personajului curent. Odată ce e acolo, îl poți aranja și conecta cu alte blocuri.
 
 --- /collapse --- 
 
 Dacă vrei să vezi ce face un bloc poți să dai dublu-click pe el ca să ruleze!
 
-+ Incearcă să dai dublu-click pe câteva blocuri ca să vezi ce fac.
++ Încearcă să dai dublu-click pe câteva blocuri ca să vezi ce fac.
 
 --- collapse ---
 ---
@@ -44,9 +44,9 @@ Blocurile de cod rulează de sus în jos, așa că **ordinea** în care sunt pus
 
 --- /collapse ---
 
-Stergerea blocurilor de cod din program este ușoara! Doar trage-le înapoi în meniu.
+Ștergerea blocurilor de cod din program este ușoara! Doar trage-le înapoi în meniu.
 
-**Ai grijă:** dacă ștergi un bloc, o să ștergi și toate blocurile conectate prin el. Așa că asigura-te că le separi pe cele pe care vrei sa le păstrezi. Dacă ai șters din greșala niște blocuri și le vrei înapoi, dă click-dreapta și selectează **undo**. 
+**Ai grijă:** dacă ștergi un bloc, o să ștergi și toate blocurile conectate prin el. Asigura-te că le separi pe cele pe care vrei să le păstrezi. Dacă ai șters din greșala niște blocuri și le vrei înapoi, dă click-dreaptă și selectează **undo**. 
 
 ![](images/code6.png)
 
@@ -54,9 +54,9 @@ Stergerea blocurilor de cod din program este ușoara! Doar trage-le înapoi în 
 
 ### Pune totul laolaltă
 
-Acum ști cum să manevrezi codul și să faci lucruri să se întâmple, este timpul că tu să faci Pisica să meargă în cercuri!
+Acum ști cum să manevrezi codul și să faci lucruri să se întâmple, este timpul ca tu să faci Pisica să meargă în cercuri!
 
-+ Asigura-te că ai personajul Pisică selectat, după care trage aceste blocuri și conectează-le. O să le găsești în listele de **Evenimente** și de **Mișcare**.
++ Asigură-te că ai personajul Pisică selectat, după care trage aceste blocuri și conectează-le. O să le găsești în listele de **Evenimente** și de **Mișcare**.
 
 ![blocks_1546569162_663829](images/blocks_1546569162_663829.png)
 
@@ -64,20 +64,20 @@ Acum ști cum să manevrezi codul și să faci lucruri să se întâmple, este t
 
 ![](images/code7.png)
 
-Ar trebui să vezi Pisica mergând în linie dreapta... nu chiar ce am vrut, nu?
+Ar trebui să vezi Pisica mergând în linie dreaptă... nu chiar ce am vrut, nu?
 
 Dacă apeși de prea multe ori pe steag și Pisica o ia la fugă poți să o tragi înapoi!
 
-+ Adaugă acest bloc la sfârșit că să faci Pisica să meargă în cercuri. Este tot în lista de **Mișcare**.
++ Adaugă acest bloc la sfârșit ca să faci Pisica să meargă în cercuri. Este tot în lista de **Mișcare**.
 
 ![blocks_1546569163_729716](images/blocks_1546569163_729716.png)
 
 --- collapse ---
 ---
-title: Cum functionează răsucirea?
+title: Cum funcționează răsucirea?
 ---
 
-Acest bloc face spriteul să se răsucească 15 grade din cele 360 care formează un cerc. Poţi schimba acest număr, dacă apeși pe el și scri o nouă valoare. 
+Acest bloc face personajul să se răsucească 15 grade din cele 360 care formează un cerc. Poţi schimba acest număr, dacă apeși pe el și scri o nouă valoare. 
 ![](images/code9.png)
 
 --- /collapse ---

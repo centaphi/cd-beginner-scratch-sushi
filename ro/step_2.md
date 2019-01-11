@@ -73,7 +73,7 @@ Timpul să trecem la codat!
 
 + În lista de personaje, apasă pe Pisică. Pisica este acum personajul curent.  
    
-+ Alege categoria de **Evenimente** din meniul de blocuri de cod, apasă blocul `când se apasă steagul`{:class="block3events"}, și trage-l în panoul personajului curent.  
++ Alege categoria de **Evenimente** din meniul de blocuri de cod, apasă blocul `când se apasă steagul verde`{:class="block3events"}, și trage-l în panoul personajului curent.  
 
 ![blocks_1546569156_389366](images/blocks_1546569156_389366.png)
 
