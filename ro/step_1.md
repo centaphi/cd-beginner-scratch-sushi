@@ -1,52 +1,52 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/cd-beginner-scratch-sushi-scratch2).
+Aceasta este versiunea proiectului folosind **Scratch 3**. Există, de asemenea, și o [versiune a proictului folosind Scratch 2](https://projects.raspberrypi.org/en/projects/cd-beginner-scratch-sushi-scratch2).
 
 --- /no-print ---
 
-## Introduction
+## Introducere
 
-These Sushi Cards are going to help you learn to create computer programs in Scratch!
+Aceste carduri te vor ajuta să înveți să creezi programe folosind Scratch! 
 
-### What you will make
+### Ce vei face
 
-You will make a game where you move a shark around to try and catch fish.
+Vei crea un joc în care tu controlezi un rechin în încercarea de a prinde peștii.
 
-Here's an example of how your finished game might look:
+Iată un exemplu a felului în care jocul tău ar putea arăta:
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/205355052/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Press the green flag to start the game. Use the arrow keys to move the shark around and catch the fish.
+Apasă stegulețul verde ca să începi jocul. Folosește săgețile/mouse-ul ca să miști rechinul și să prinzi peștele.
 
 --- collapse ---
 ---
-title: What you will learn
+title: Ce vei învăța
 ---
 
-* Adding and deleting code blocks
-* Basic motion: move in steps, and turn by degrees
-* Using keyboard controls
-* Using (x, y) coordinates to position sprites
-* Changing the look of the Stage and of sprites with costumes and show/hide commands
-* Having multiple sprites on screen
-* Using `forever`{:class="block3control"} loops
-* Detecting when sprites are touching
+* Să adaugi și să ștergi blocuri de cod
+* Mișcările de bază: mișcarea pas cu pas, și rotirea cu un număr grade
+* Să controlezi personejele folosind tastatura
+* Să folosești coordonatele (x, y) pentru a poziționa personajele
+* Să modifici înfățișarea scenei și a personajelor folosind costume și comenzi de ascundere/afișare
+* Să ai multiple personaje pe ecran
+* Să folosești iterații `la nesfârșit`{:class="block3control"}
+* Să detectezi când personajele se intersectează
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will need
+title: De ce vei avea nevoie
 ---
 
-You’re going to need **Scratch**, so do one of the following:
+Vei avea nevoie de **Scratch**, deci trebuie sa faci unul din următoarele lucruri:
 
-+ Download Scratch and install it on your computer by going to [dojo.soy/downloadscratch](http://dojo.soy/downloadscratch)
-+ Use Scratch in your web browser by going to [dojo.soy/usescratch](http://dojo.soy/usescratch)
++ Să descarci Scratch și să îl instalezi pe calculatorul tău accesând [dojo.soy/downloadscratch](http://dojo.soy/downloadscratch)
++ Să folosești Scratch în browserul web accesând [dojo.soy/usescratch](http://dojo.soy/usescratch)
 
-Once you’re set up, you can move on to the next step!
+Când ești gata, poți avansa la pasul următor!
 
 --- /collapse ---
 
