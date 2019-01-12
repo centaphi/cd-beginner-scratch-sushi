@@ -1,40 +1,24 @@
-## Moving things around
+## Controlarea miscarii personajului
 
-Right now your shark moves in a circle, and it would be much more fun to control it with the arrow keys. On this card, you’re going learn how to do that!
+Acum, rechinul tău se mișcă în cerc, dar ar fi mult mai distractiv să-l putem controla. În acest card o să învațăm cum să facem asta!
 
-+ Start by deleting all code that you have for the shark.
++ Începe prin a ștege tot condul asociat rechinului.
 
-As you’ve probably guessed, you’re going to need **Event** and **Motion** blocks again! 
+Vom avea nevoie în plus fata de **Evenimente** șî **Mișcare** si de blocul **control**.
 
-+ This time, look for this block and drag it into the current sprite panel:
++ Pentru început caută blocul de mai jos si adaugă-l în zona de cod a personajului curent:
 
-![blocks_1546569164_804841](images/blocks_1546569164_804841.png)
+![Mergi la](images/blocks_1546569164_804841.png)
 
-+ Click the little arrow (▼) beside `space`. You will see a list of all your keyboard keys that you can pick from. 
++ Apasă pe sageata de lângă `poziție aleatoare`. Iți va apărea încă o opțîune, `cursorul mouse-ului`. Vom selecta opțiunea asta pentru că vrem ca rechinul să urmarească apăsarea pe ecran.
 
-You’re going to need four of the `when key pressed`{:class="block3events"} blocks — one for each of your arrow keys. To make your shark move, you'll need to connect these blocks to **Motion** blocks like this: 
+Acum avem nevoie de `cand se da click pe stegulet` si să conectam blocul **mergi la** cu acesta. Dacă apăsăm pe stegulețul verde vedem că rechinul vine după noi, dar rămâne acolo. Ne-ar trebui ceva care să caute mereu pozitia cursorului. Caută blocul de mai jos si conectează-l de `cand se da click pe`
 
-![blocks_1546569165_8711412](images/blocks_1546569165_8711412.png)
+![la infinit](images/blocks_1546569165_8711412.png)
 
-![blocks_1546569166_940779](images/blocks_1546569166_940779.png)
++ Apasă pe stegulețul verde sa vedem ce am făcut.
 
-![blocks_1546569168_016937](images/blocks_1546569168_016937.png)
-
-![blocks_1546569169_0910342](images/blocks_1546569169_0910342.png)
-
-**Note**: `-10` means 'go back 10 steps'.
-
-+ Add the blocks shown above to your program, and click the green flag to test out your code.
-
-Now your shark moves back and forwards, which is pretty cool, but it doesn’t move up or down. Also, if you look through the **Motion** blocks, you’ll see there are no blocks for 'up' or 'down'. There are a whole bunch of them related to **x** and **y** coordinates though — let's try those!
-
-+ Grab two `change y by`{:class="block3motion"} blocks, and update your code like this: 
-
-![blocks_1546569170_157967](images/blocks_1546569170_157967.png)
-
-![blocks_1546569171_237081](images/blocks_1546569171_237081.png)
-
-Now when you press the arrows keys, the shark moves all over the stage!
+Rechinul se muta acolo unde apasăm, nu?
 
 --- collapse ---
 ---
