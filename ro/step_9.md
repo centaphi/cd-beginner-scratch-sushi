@@ -1,47 +1,47 @@
-## Keeping score
+## Salvarea scorului
 
-To keep score of how many fish the player catches, you’ll need somewhere to store the score, a way of adding to it, and a way of resetting it when the game is restarted.
+Pentru a reține numărul peștișorilor prinși de jucător, vei avea nevoie de un loc în care să păstrezi scorul, o modalitate de a aduna, și o modalitate de a îl reseta când reîncepi jocul.
 
-+ First: storing the score! Go to the **Variables** blocks category and click on **Make a Variable**.
++ Prima dată: să salvăm scorul! Mergi la categoria de blocuri de cod **Variabile** și selecteaza **Creează o Variabilă**.
 
 ![](images/catch5.png)
 
-+ Enter `score` as the name. 
++ Setează-i numele `scor`. 
 
 ![](images/catch6.png)
 
-Check out your new variable!
+Verifică noua variabilă!
 
-![The Score variable is displayed on the stage](images/scoreVariableStage.png)
+![Variabila Scor este afișată pe scenă](images/scoreVariableStage.png)
 
 --- collapse ---
 ---
-title: What are variables?
+title: Ce sunt variabilele?
 ---
 
-When you want to store information in a program, you use something called a **variable**. Think of it like a box with a label on it: you can put something in it, check what’s in it, and change what’s in it. You’ll find variables in the **Variables** section, but you need to create them first for them to show up there! 
+Când vrei să păstrezi informații într-un program, poți folosi ceva numit **variabilă**. Gândește-te la ea ca la o cutie cu o etichetă pe ea: poți pune ceva in ea, poți verifica ce conține, și îi poți modifica conținutul. Variabilele se găsesc în secțiunea **Variabile**, dar ele trebuie create mai întâi pentru a fi afișate aici!
 
 --- /collapse ---
 
-Now you need to update the variable whenever the shark eats a fish, and to reset it when the game is restarted. Doing both is pretty easy:
+Acum trebuie să modifici variabila de fiecare dată când rechinul mănâncă un pește, și să îl resetezi cand jocul este repornit. Ambele lucruri sunt destul de simple:
 
-+ From the **Variables** section, take the `set [my variable v] to [0]`{:class="block3variables"} and `change [my variable v] by [1]`{:class="block3variables"} blocks. Click on the little arrows in the blocks, choose `score` from the list, and then put the blocks into your program: 
++ Din secțiunea **Variabile**, alege blocurile `setează [my variable] la [0]`{:class="block3variables"} și `schimbă [my variable] cu [1]`{:class="block3variables"}. Selectează micile săgețele din interiorul blocurilor, alege `scor` din listă, și apoi așază blocurile în programul tău:
 
-### Code for the shark
+### Codul pentru rechin
 
 ![blocks_1546569190_9005241](images/blocks_1546569190_9005241.png)
 
-### Code for the fish
+### Codul pentru pește
 
 ![blocks_1546569191_975879](images/blocks_1546569191_975879.png)
 
-Cool! Now you’ve got a score and everything. 
+Grozav! Acum ai și scor!
 
 --- challenge ---
 
 ## Challenge: winning the game
 
-+ Pick a score at which the player wins, and make something cool happen. Maybe the shark congratulates them, or a "You win!" sprite appears, or music plays, or...you get the idea!
++ Alege un scor la care jucătorul caștigă, și fă să se întâmple ceva tare când jucătorul câștigă. Rechinul ar putea să felicite jucătorul, sau ai putea afișa un mesaj "Ai câștigat!", sau ar putea începe să cânte o melodie, sau... ai înțeles ideea!
 
 --- /challenge ---
 
