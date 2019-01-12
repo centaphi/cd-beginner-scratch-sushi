@@ -1,27 +1,27 @@
-## Fishing!
+## Pescuirea!
 
-The shark moves, the fish swims, but they don’t interact: if the fish swims right into the shark's mouth, nothing happens. Time to change that!
+Rechinul se muta, peștele înoată, dar ei nu interacționează. Dacă peștele înoată chiar in gura peștelui nu se întamplă nimic. E timpul să schimbăm asta!
 
-First, you need to know if the fish is touching the shark. For this, you'll need a **Control** block and a **Sensing** block. 
+Mai întâi trebuie sa aflăm dacă peștele atinge rechinul. Pentru asta avem nevoie de blocuri de tipurile **Control** si **Detectare**.
 
-+ Add the `if...then`{:class="block3control"} **Control** block inside the `forever`{:class="block3control"} loop of the fish sprite, below the `if on edge bounce`{:class="block3motion"} block.
++ Adauga în secțîunea de cod a peștelui, blocul `daca...atunci`{:class="block3control"} de tipul **Control**, in interiorul blocului `la infinit`{:class="block3control"}, imeadiat după blocul `dacă atinge marginea`.
 
-+ Drag the `touching...`{:class="block3sensing"} block into the space at the top of the `if...then`{:class="block3control"} block, and click the little triangle to select the shark sprite's name. If you haven’t changed it, it'll be 'Sprite1'.
++ Adaugă blocul de decizie `atinge...` în spatiul liber din blocul `dacă...atunci` și apasă pe triunghi pentru a selecta rechinul. Dacă nu i-ai schimbat numele va fi 'Sprite1'.
 
 ![blocks_1546569185_4512188](images/blocks_1546569185_4512188.png)
 
 --- collapse ---
 ---
-title: How does it work?
+title: Cum funcțîonează?
 ---
 
-The `if...then`{:class="block3control"} **Control** block needs to be given a `True/False` value. 
+Blocul `dacă...atunci`{:class="block3control"} de tipul **Control** are nevoie de o valoare `Adevarat/Fals` și execută codul doar pentru `Adevarat`. 
 
-**Sensing** blocks collect information, like where the sprite is, what it’s touching, etc. You're using this block:
+Blocurile de tipul **Detectare** colecteaza informatii, de exemplu un e personajul sau ce atinge, etc. Vom folosi acest block:
 
 ![blocks_1546569186_5458062](images/blocks_1546569186_5458062.png)
 
-From this block's pointy ends, you can tell it’s going to give you the `True/False` value that the `if...then`{:class="block3control"} block needs.
+Judecând după forma acestuia, putem trage concluzia că ne va oferi acea valoare `Adevarat/Fals` de care blocul `dacă...atunci` are nevoie.
 
 --- /collapse ---
 
