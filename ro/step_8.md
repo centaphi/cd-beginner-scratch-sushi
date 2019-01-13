@@ -25,23 +25,23 @@ Judecând după forma acestuia, putem trage concluzia că ne va oferi acea valoa
 
 --- /collapse ---
 
-Of course, you’ve just added an `if...then`{:class="block3control"} block without adding anything for the 'then' part. So at the moment your script is checking whether the fish sprite is touching the shark sprite, but it's not making anything happen in response.
+Bineinteles, ai adăugat un block `dacă...atunci`{:class="block3control"}, dar nu ai adăugat nimic pentru zona 'atunci'. În momentul ăsta codul tau verifică peștele atinge rechinul, dar nu reacționează in niciun fel.
 
-You can make the fish disappear, as if the shark ate it, by using the `hide`{:class="block3looks"} block.
+Poți face ca pestele să dispară, ca și cum rechinul l-ar mânca, folosing blocul `ascunde`{:class="block3looks"}. 
 
-+ Find the `hide`{:class="block3looks"} block in the **Looks** list, and put it inside the `if...then`{:class="block3control"} block, like so: 
++ Gasește blocul `ascunde`{:class="block3looks"} in categoria **Aspect** si adaugă-l în interiorul blocului `dacă...atunci`{:class="block3control"} astfel: 
 
 ![blocks_1546569187_615252](images/blocks_1546569187_615252.png)
 
-Now once the shark catches the fish, the fish disappears for good. That’s not great.
+Acum în momentul când rechinul prinde peștele, acesta dispare definitiv. Asta nu e bine.
 
-+ Put the `show`{:class="block3looks"} block from **Looks** in at the very start of the fish code, so you can reset the game. 
++ Adaugă blocul `arată`{:class="block3looks"} **Aspect** din categoria **Looks** la începutul codului peștelui pentru a putea reseta jocul.
 
 ![blocks_1546569188_695355](images/blocks_1546569188_695355.png)
 
-That's already better, but you don’t want the player to have to restart the game every time they catch a single fish! 
+Asta este deja mai bine, dar nu cred că vream ca jucătorul să restarteze jocul de fiecare dată când prinde un pește.
 
-+ Update the code inside your `if...then`{:class="block3control"} block to look like this:
++ Modifică codul din interiorul blocului `dacă...atunci`{:class="block3control"} să arate ca:
 
 ![blocks_1546569189_772684](images/blocks_1546569189_772684.png)
 
@@ -50,10 +50,10 @@ That's already better, but you don’t want the player to have to restart the ga
 title: How does this work?
 ---
 
-You are being clever here: when the fish is hidden, it waits, moves, and then shows up again. 
+Foarte bine: când pestele se ascunde, asteaptă câteva momente, se mută, iar apoi reapare. 
 
-It looks like lots of fish keep appearing, but it’s that one sprite moving around! 
+Pare care un nou pește apare de fiecare dată, dar defapt este un singur personaj care se muta.
 
 --- /collapse ---
 
-That’s a game! But there’s no way to keep score yet, or to win. You can fix that too — on the next card!
+Avem un joc! Dar nu avem deocamdată niciun mod pentru a ține scorul ori pentru câștigarea jocului. Poți repara asta in cardul următor.
