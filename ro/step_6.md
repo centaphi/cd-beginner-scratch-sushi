@@ -1,30 +1,31 @@
-## All the sprites
+## Toate personajele
 
-Now you have a shark that you can move around using the arrow keys. Nice! Time to add some fish for it to catch.
+Acum avem un rechin care se muta încotro ne dorim noi. Bravo! Este timpul să adăugăm pește de prins.
 
-+ Click the **New sprite** button, and on the screen that opens, choose a fish.
++ Click pe butonul **Alege un personaj**, iar din fereastra care s-a deschis, alege peștele.
 
 ![The New sprite button](images/spritesNewFromLibrary.png)
 
-If your fish is a bit big compared to your shark, you can use the size control to make both sprites the right size!
+Daca peștele este de marime diferită față de rechin, poti modifica dimensiunea acestuia pentru ai face pe amândoi la fel!
 
 ![Sprite size control](images/sprites2.png)
 
-+ Click on **grow** or **shrink**, and then click on one of the sprites to make it bigger or smaller.
++ Click pe **Dimensiune** și modifică valoarea afișată pentru al face mai mic sa mai mare.
 
-Great! Later, you're going to add some code to make the fish move around on its own, without help from the player. Your player will move the shark and try to catch the fish.
+Bravo! Mai târziu vom adauga cod pentru al face pe peștișor sâ se mute pe cont propriu fară ajutorul jucătorului. Jucătorul va încerca sa mute rechinul în încercarea de a prinde pestele.
 
 --- collapse ---
 ---
-title: What about the backwards shark?
+title: Rechinul inoată cu spatele?
 ---
 
-It does look a little funny to have that shark swimming backwards. Just like you’d usually turn around rather than walking backwards, the shark would turn around rather than swimming backwards. Luckily for you, Scratch has a block for this!
+Pare puțin amuzant ca un rechin să inoate cu spatele. Exact cum și tu te întorci în loc să mergi cu spatele, așa șî rechinul ar trebui să se întoarcă în loc să înoate cu spatele. Bineînțeles, Scratch are un bloc pentru asta!
 
-The `point in direction`{:class="block3motion"} block lets you pick the direction your sprite is pointing in. You’ll find it in the **Motion** blocks section. You can type in any number of degrees, to point the sprite wherever you want.
+Blocul `orientează-te în direcția`{:class="block3motion"} iți permite să alegi direcția personajului. Il vei găsi în blocurile de tip **Mișcare**. 
+Poți introduce oricâte grade dorești pentru a orienta personajul în orice direcție dorești.
 --- /collapse ---
 
-+ Grab a couple of copies of the `point in direction`{:class="block3motion"} block from the **Motion** list and connect them to your shark's code, like this: 
++ Adaugă cateva blocuri `orientează-te în direcția`{:class="block3motion"} din categoria **Mișcare** si conteazăle la codul rechinului, astfel: 
 
 ![blocks_1546569174_458087](images/blocks_1546569174_458087.png)
 
@@ -32,23 +33,23 @@ The `point in direction`{:class="block3motion"} block lets you pick the directio
 
 + Change the number of steps in the `move`{:class="block3motion"} blocks from `-10` to `10`.
 
-If you try moving the shark around now after you've added the `point in direction`{:class="block3motion"} blocks, you might notice something a little strange happening. The shark may not be turning quite right! 
+Dacă încerci sa muti rechinul acum, după ce ai adaugat blocurile `orientează-te în direcția`, o să observi că se întâmplă ceva ciudat. Rechinul nu se intoarce tocmai corect!
 
 ![Upside down shark](images/spritesUpsideDown.png)
 
 --- collapse ---
 ---
-title: Why does it go upside down?
+title: De ce ajunge cu capul în jos?
 ---
 
-The problem here is that the shark sprite started, as all sprites do, with the 'all around' **rotation style**, and what you need it to have is the 'left-right' style.
+Problema aici este că rechinul începe, ca orice alt personaj, cu **stilul de rotație** 'de jur inprejur', iar ce avem noi nevoie este 'stânga-dreapta'.
 
-As usual, there’s a block for that, and it’s in **Motion**! 
+Ca de obicei, există un bloc pentru asta în categoria **Mișcare**. 
 
 --- /collapse ---
 
-+ Look in the **Motion** category for the block `set rotation style`{:class="block3motion"}.
++ Caută in categoria **Mișcare** blocul `setează stilul de rotație`{:class="block3motion"}.
 
-+ Add the block to your reset code from earlier, and set the rotation style to `left-right`{:class="block3motion"}, like this: 
++ Adaugă blocul în codul resetat de mai devreme și seteaza stilul rotației in `left-right` astfel: 
 
 ![blocks_1546569176_649717](images/blocks_1546569176_649717.png)
