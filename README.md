@@ -1,4 +1,4 @@
-<string>Acesta e tutorialul adaptat pentru tableta!!!!</string>
+<strong>Acesta e tutorialul adaptat pentru tableta!!!!</strong>
 
 # cd-beginner-scratch-sushi
 
