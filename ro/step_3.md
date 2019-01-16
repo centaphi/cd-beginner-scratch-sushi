@@ -6,10 +6,9 @@ Minunat! Ai scris primul tău program Scratch! Timpul să înveți mai multe des
 
 O să găsești toate blocurile în **meniul de blocuri de cod**, sortate în diferite categori în funcție de ce fac.
 
---- collapse ---
+
 ---
-title: Folosirea blocurilor din mai multe categori
----
+#### ![info](/images/info.png) Folosirea blocurilor din mai multe categori
 
 Apasă pe o categorie ca să vezi blocurile din acea categorie. Aici, categoria **Mișcare** este selectată:
 
@@ -21,16 +20,14 @@ Toate blocurile din categoria pe care ai apăsat apar într-o listă:
 
 Apasă pe blocul pe care îl vrei, și trage-l în panoul personajului curent. Odată ce e acolo, îl poți aranja și conecta cu alte blocuri.
 
---- /collapse --- 
+---
 
 Dacă vrei să vezi ce face un bloc poți să dai dublu-click pe el ca să ruleze!
 
 + Încearcă să dai dublu-click pe câteva blocuri ca să vezi ce fac.
 
---- collapse ---
 ---
-title: Rularea codului
----
+#### ![info](/images/info.png) Rularea codului
 
 De obicei codul tău ruleaza automat odată ce un anume lucru se întâmplă. De aceea multe dintre programele tale or să înceapă cu un bloc din categoria **Evenimente**, adesea acesta:
 
@@ -42,7 +39,7 @@ Blocurile de cod rulează de sus în jos, așa că **ordinea** în care sunt pus
 
 ![blocks_1546569161_587133](images/blocks_1546569161_587133.png)
 
---- /collapse ---
+---
 
 Ștergerea blocurilor de cod din program este ușoara! Doar trage-le înapoi în meniu.
 
@@ -72,14 +69,12 @@ Dacă apeși de prea multe ori pe steag și Pisica o ia la fugă poți să o tra
 
 ![blocks_1546569163_729716](images/blocks_1546569163_729716.png)
 
---- collapse ---
 ---
-title: Cum funcționează răsucirea?
----
+#### ![info](/images/info.png) Cum funcționează răsucirea?
 
 Acest bloc face personajul să se răsucească 15 grade din cele 360 care formează un cerc. Poţi schimba acest număr, dacă apeși pe el și scri o nouă valoare. 
 ![](images/code9.png)
 
---- /collapse ---
+---
 
 + Acum salvează ce ai făcut!

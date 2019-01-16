@@ -14,14 +14,12 @@ Verifică noua variabilă!
 
 ![Variabila Scor este afișată pe scenă](images/scoreVariableStage.png)
 
---- collapse ---
 ---
-title: Ce sunt variabilele?
----
+#### ![info](/images/info.png) Ce sunt variabilele?
 
 Când vrei să păstrezi informații într-un program, poți folosi ceva numit **variabilă**. Gândește-te la ea ca la o cutie cu o etichetă pe ea: poți pune ceva in ea, poți verifica ce conține, și îi poți modifica conținutul. Variabilele se găsesc în secțiunea **Variabile**, dar ele trebuie create mai întâi pentru a fi afișate aici!
 
---- /collapse ---
+---
 
 Acum trebuie să modifici variabila de fiecare dată când rechinul mănâncă un pește, și să îl resetezi cand jocul este repornit. Ambele lucruri sunt destul de simple:
 
@@ -37,11 +35,10 @@ Acum trebuie să modifici variabila de fiecare dată când rechinul mănâncă u
 
 Grozav! Acum ai și scor!
 
---- challenge ---
+---
 
 ## Provocare: câștigarea jocului
 
 + Alege un scor la care jucătorul caștigă, și fă să se întâmple ceva tare când jucătorul câștigă. Rechinul ar putea să felicite jucătorul, sau ai putea afișa un mesaj "Ai câștigat!", sau ar putea începe să cânte o melodie, sau... ai înțeles ideea!
 
---- /challenge ---
-
+---

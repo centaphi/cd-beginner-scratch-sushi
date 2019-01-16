@@ -10,10 +10,8 @@ Mai întâi trebuie sa aflăm dacă peștele atinge rechinul. Pentru asta avem n
 
 ![blocks_1546569185_4512188](images/blocks_1546569185_4512188.png)
 
---- collapse ---
 ---
-title: Cum funcționează?
----
+#### ![info](/images/info.png) Cum funcționează?
 
 Blocul `dacă...atunci`{:class="block3control"} de tipul **Control** are nevoie de o valoare `Adevarat/Fals` și execută codul doar pentru `Adevarat`. 
 
@@ -23,7 +21,7 @@ Blocurile de tipul **Detectare** colecteaza informatii, de exemplu unde e person
 
 Judecând după forma acestuia, putem trage concluzia că ne va oferi acea valoare `Adevarat/Fals` de care blocul `dacă...atunci` are nevoie.
 
---- /collapse ---
+---
 
 Bineinteles, ai adăugat un block `dacă...atunci`{:class="block3control"}, dar nu ai adăugat nimic pentru zona 'atunci'. În momentul ăsta codul tau verifică peștele atinge rechinul, dar nu reacționează in niciun fel.
 
@@ -45,15 +43,13 @@ Asta este deja mai bine, dar nu cred că vream ca jucătorul să restarteze jocu
 
 ![blocks_1546569189_772684](images/blocks_1546569189_772684.png)
 
---- collapse ---
----
-title: How does this work?
----
+--- 
+#### ![info](/images/info.png) How does this work?
 
 Foarte bine: când pestele se ascunde, asteaptă câteva momente, se mută, iar apoi reapare. 
 
 Pare ca un pește nou apare de fiecare dată, dar de fapt este un singur personaj care se muta.
 
---- /collapse ---
+---
 
 Avem un joc! Dar nu avem deocamdată niciun mod pentru a ține scorul ori pentru câștigarea jocului. Poți repara asta in cardul următor.

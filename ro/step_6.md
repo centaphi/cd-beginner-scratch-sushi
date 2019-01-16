@@ -1,12 +1,12 @@
 ## Toate personajele
 
-Acum avem un rechin care se muta încotro ne dorim noi. Bravo! Este timpul să adăugăm pește de prins.
+Acum avem un rechin care se muta încotro ne dorim noi. Bravo! Este timpul să adăugăm un pește de prins.
 
 + Click pe butonul **Alege un personaj**, iar din fereastra care s-a deschis, alege peștele.
 
 ![The New sprite button](images/spritesNewFromLibrary.png)
 
-Daca peștele este de marime diferită față de rechin, poti modifica dimensiunea acestuia pentru ai face pe amândoi la fel!
+Daca peștele este prea mare, poti modifica dimensiunea acestuia pentru a fi potrivit pentru rechin:
 
 ![Sprite size control](images/sprites2.png)
 
