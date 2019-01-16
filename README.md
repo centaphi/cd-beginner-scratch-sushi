@@ -1,3 +1,5 @@
+<string>Acesta e tutorialul adaptat pentru tableta!!!!</string>
+
 # cd-beginner-scratch-sushi
 
 ![cd-beginner-scratch-sushi](/en/images/banner.png)
