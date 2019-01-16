@@ -1,4 +1,4 @@
-<strong>Acesta este tutorialul original din link-ul de mai jos si ar trebui tradus ca pe raspberrry Pi. O sa fie folosit ca back-up in cazul in care tableta nu o sa functioneze</strong>
+<strong>Acesta este tutorialul original din link-ul de mai jos si ar trebui tradus ca pe raspberrry Pi. O sa fie folosit ca back-up in cazul in care tableta nu o sa functioneze.</strong>
 
 # cd-beginner-scratch-sushi
 
