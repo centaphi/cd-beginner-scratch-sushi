@@ -1,6 +1,6 @@
 ## Salvarea scorului
 
-Pentru a reține numărul peștișorilor prinși de jucător, vei avea nevoie de un loc în care să păstrezi scorul, o modalitate de a aduna, și o modalitate de a îl reseta când reîncepi jocul.
+Pentru a reține numărul peștișorilor prinși de jucător, vei avea nevoie de un loc în care să păstrezi scorul, o modalitate de a aduna, și o modalitate de a-l reseta când reîncepi jocul.
 
 + Prima dată: să salvăm scorul! Mergi la categoria de blocuri de cod **Variabile** și selecteaza **Creează o Variabilă**.
 
@@ -25,7 +25,7 @@ Când vrei să păstrezi informații într-un program, poți folosi ceva numit *
 
 Acum trebuie să modifici variabila de fiecare dată când rechinul mănâncă un pește, și să îl resetezi cand jocul este repornit. Ambele lucruri sunt destul de simple:
 
-+ Din secțiunea **Variabile**, alege blocurile `setează [my variable] la [0]`{:class="block3variables"} și `schimbă [my variable] cu [1]`{:class="block3variables"}. Selectează micile săgețele din interiorul blocurilor, alege `scor` din listă, și apoi așază blocurile în programul tău:
++ Din secțiunea **Variabile**, alege blocurile `setează [variabila mea] la [0]`{:class="block3variables"} și `schimbă [variabila mea] cu [1]`{:class="block3variables"}. Selectează micile săgețele din interiorul blocurilor, alege `scor` din listă, și apoi așază blocurile în programul tău:
 
 ### Codul pentru rechin
 
@@ -39,7 +39,7 @@ Grozav! Acum ai și scor!
 
 --- challenge ---
 
-## Challenge: winning the game
+## Provocare: câștigarea jocului
 
 + Alege un scor la care jucătorul caștigă, și fă să se întâmple ceva tare când jucătorul câștigă. Rechinul ar putea să felicite jucătorul, sau ai putea afișa un mesaj "Ai câștigat!", sau ar putea începe să cânte o melodie, sau... ai înțeles ideea!
 
