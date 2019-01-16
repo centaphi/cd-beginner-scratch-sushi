@@ -4,7 +4,7 @@ Rechinul se muta, peștele înoată, dar ei nu interacționează. Dacă peștele
 
 Mai întâi trebuie sa aflăm dacă peștele atinge rechinul. Pentru asta avem nevoie de blocuri de tipurile **Control** si **Detectare**.
 
-+ Adauga în secțîunea de cod a peștelui, blocul `daca...atunci`{:class="block3control"} de tipul **Control**, in interiorul blocului `la infinit`{:class="block3control"}, imeadiat după blocul `dacă atinge marginea`.
++ Adaugă în secțiunea de cod a peștelui, blocul `daca...atunci`{:class="block3control"} de tipul **Control**, in interiorul blocului `la infinit`{:class="block3control"}, imediat după blocul `dacă atinge marginea, ricoșează`.
 
 + Adaugă blocul de decizie `atinge...` în spatiul liber din blocul `dacă...atunci` și apasă pe triunghi pentru a selecta rechinul. Dacă nu i-ai schimbat numele va fi 'Sprite1'.
 
@@ -12,12 +12,12 @@ Mai întâi trebuie sa aflăm dacă peștele atinge rechinul. Pentru asta avem n
 
 --- collapse ---
 ---
-title: Cum funcțîonează?
+title: Cum funcționează?
 ---
 
 Blocul `dacă...atunci`{:class="block3control"} de tipul **Control** are nevoie de o valoare `Adevarat/Fals` și execută codul doar pentru `Adevarat`. 
 
-Blocurile de tipul **Detectare** colecteaza informatii, de exemplu un e personajul sau ce atinge, etc. Vom folosi acest block:
+Blocurile de tipul **Detectare** colecteaza informatii, de exemplu unde e personajul sau ce atinge, etc. Vom folosi acest block:
 
 ![blocks_1546569186_5458062](images/blocks_1546569186_5458062.png)
 
@@ -52,7 +52,7 @@ title: How does this work?
 
 Foarte bine: când pestele se ascunde, asteaptă câteva momente, se mută, iar apoi reapare. 
 
-Pare care un nou pește apare de fiecare dată, dar defapt este un singur personaj care se muta.
+Pare ca un pește nou apare de fiecare dată, dar de fapt este un singur personaj care se muta.
 
 --- /collapse ---
 
