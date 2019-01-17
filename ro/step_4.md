@@ -1,6 +1,6 @@
 ## Stabilirea decorului
 
-Scratch are o colecție de decoruri și personaje cu care poți să-ți faci proiectul să arate excelent. 
+Scratch are o colecție de decoruri și personaje cu care poți să-ți faci proiectul să arate excelent:
 
 + Selectează Scena.
 
@@ -18,9 +18,9 @@ Scratch are o colecție de decoruri și personaje cu care poți să-ți faci pro
 
 ![Decor subacvatic](images/looksUnderwater.png)
 
-Excelent! Acum ai o pisică sub apă, iar pisicilor nu le place apa. Putem schimba asta, transformând pisica in rechin.
+Excelent! Acum ai o pisică sub apă, dar știm că pisicilor nu le place apa. Putem schimba asta, transformând pisica în rechin.
 
-+ Prima oară selectează pisica din personaje, iar apoi slectează tabul **Costume**.
++ Prima dată selectează pisica din personaje, iar apoi selectează tabul **Costume**.
 
 ![](images/cool2.png)
 
@@ -28,11 +28,11 @@ Excelent! Acum ai o pisică sub apă, iar pisicilor nu le place apa. Putem schim
 
 ![](images/cool3.png)
 
-+ Selecteaza rechinul din această imagine. 
++ Selectează rechinul din această imagine. 
 
 ![Costumul rechinului](images/looksShark.png)
 
-+ Acum șterge costumele pisicilor. Selectează fiecare costum, iar apoi apasă butonul **x**.
++ Acum șterge costumele pisicilor: selectează fiecare costum și apoi apasă butonul **x**.
 
 ![](images/coolDeleteCostumes.png)
 
