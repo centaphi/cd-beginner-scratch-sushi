@@ -11,7 +11,7 @@ Mai întâi trebuie sa aflăm dacă peștele atinge rechinul. Pentru asta avem n
 ![blocks_1546569185_4512188](images/blocks_1546569185_4512188.png)
 
 ---
-#### ![info](/images/info.png) Cum funcționează?
+#### ![info](images/info.png) Cum funcționează?
 
 Blocul `dacă...atunci`{:class="block3control"} de tipul **Control** are nevoie de o valoare `Adevarat/Fals` și execută codul doar pentru `Adevarat`. 
 
@@ -44,7 +44,7 @@ Asta este deja mai bine, dar nu cred că vream ca jucătorul să restarteze jocu
 ![blocks_1546569189_772684](images/blocks_1546569189_772684.png)
 
 --- 
-#### ![info](/images/info.png) How does this work?
+#### ![info](images/info.png) How does this work?
 
 Foarte bine: când pestele se ascunde, asteaptă câteva momente, se mută, iar apoi reapare. 
 
