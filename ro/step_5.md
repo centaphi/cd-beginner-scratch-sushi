@@ -2,7 +2,7 @@
 
 Acum hai să facem rechinul să înoate în ce direcție vrem noi.
 
-Pentru început, selectează personajul și sterge toate blocurile de sub `Cănd se dâ click pe`!
+Pentru început, selectează personajul și sterge toate blocurile de sub `Când se dă click pe`!
 
 + Acum caută blocul de mai jos din categoria **Mișcare** și adaugă-l în zona de cod a personajului curent:
 
@@ -14,7 +14,7 @@ Dacă apăsăm pe stegulețul verde vedem că rechinul vine după noi prima dat�
 
 Pentru asta vom avea nevoie de un bloc nou, de tip **control**, să se mute mereu unde este cursorul mouse-ului, nu doar la inceput. Hai să adăugăm blocul `la infinit` și să-l modificăm astfel:
 
-![cod modificat](images/blocks_infinit)
+![cod modificat](images/blocks_infinit.png)
 
 ---
 #### ![info](images/info.png) Ce face noul bloc?
