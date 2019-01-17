@@ -10,7 +10,7 @@ Odată ce deschizi Scratch, o să vezi o fereastră ca cea de mai jos.
 
 
 ---
-#### ![info](/images/info.png) Ce este Scena?
+#### ![info](images/info.png) Ce este Scena?
 Aici ruleaza programele tale Scratch. Conține:
 
 * Una sau mai multe **imagini de fundal**
@@ -24,7 +24,7 @@ Aici ruleaza programele tale Scratch. Conține:
  ![Scratch window with the sprite list highlighted](images/hlSpriteList.png)
 
 ---
-#### ![info](/images/info.png) Ce este un personaj?
+#### ![info](images/info.png) Ce este un personaj?
 
 Orice obiect pe care îl poți adăuga pe Scena se cheama **personaj**.  
 
@@ -42,7 +42,7 @@ Personajul include:
  
 
 ---
-#### ![info](/images/info.png) Blocuri de cod
+#### ![info](images/info.png) Blocuri de cod
 
 Codul în Scratch este sub forma blocurilor care se conectează pentru a forma un program. Alegi blocuri din **meniul de blocuri de cod**, le tragi în **panoul cu personajul curent**, după care le conectezi cu celelalte.
 
@@ -55,7 +55,7 @@ Sunt 10 categori de blocuri, grupate pe culori. Poţi alege dintre ele apăsând
  ![Scratch window with the current sprite panel highlighted](images/hlCurrentSpritePanel.png)
 
 ---
-#### ![info](/images/info.png) Care este personajul curent?
+#### ![info](images/info.png) Care este personajul curent?
 
 **Personajul curent** este cel selectat în **lista de personaje**.
 
