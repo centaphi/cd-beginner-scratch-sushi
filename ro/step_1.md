@@ -8,7 +8,7 @@ Vei crea un joc în care tu controlezi un rechin în încercarea de a prinde pe�
 
 ---
 
-#### ![info](/images/info.png) Ce vei învăța
+#### ![info](images/info.png) Ce vei învăța
 
 * Să adaugi și să ștergi blocuri de cod
 * Mișcările de bază: mișcarea pas cu pas, și rotirea cu un număr grade
@@ -21,7 +21,7 @@ Vei crea un joc în care tu controlezi un rechin în încercarea de a prinde pe�
 
 ---
 
-#### ![info](/images/info.png) De ce vei avea nevoie
+#### ![info](images/info.png) De ce vei avea nevoie
 
 
 Vei avea nevoie de **Scratch**, deci trebuie sa faci unul din următoarele lucruri:
