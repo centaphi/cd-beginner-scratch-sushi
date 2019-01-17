@@ -20,7 +20,7 @@ Pentru început, trebuie să încetinești peștele. Asta e destul de ușor, tre
 ![blocks_1546569179_881654](images/blocks_1546569179_881654.png)
 
 ---
-#### ![info](/images/info.png) Ajustari
+#### ![info](images/info.png) Ajustari
 
 Numărul pe care l-ai setat la `așteptare`{:class="block3control"} zice cate **secunde** vrei să aștepte peștele. `0.5` este jumătate de secundă.
 
@@ -33,12 +33,12 @@ Peștele se mișcă acum, dar vrei să se și întoarcă când atinge marginea S
 
 
 ---
-#### ![info](/images/info.png) Ce face noul bloc?
+#### ![info](images/info.png) Ce face noul bloc?
 
 Blocul `dacă atingi marginea întoarce-te`{:class="block3motion"} verifica dacă personajul atinge merginea Scenei și, dacă atinge, se întoarce în direcţia opusă.
 
 ---
-#### ![info](/images/info.png) De ce ajunge cu capul în jos?
+#### ![info](images/info.png) De ce ajunge cu capul în jos?
 
 Problema aici este că pestele începe, ca orice alt personaj, cu **stilul de rotație** 'de jur inprejur', iar ce avem noi nevoie este 'stânga-dreapta'.
 
@@ -63,7 +63,7 @@ Peștele se mișcă în faţă și în spate acum, dar numai în linie dreaptă 
 E mai bine, dar încă este prea multă predictibilitate în mișcările peștelui. Trebuie să fie mai întâmplătoare. Din fericire, Scratch poate să ia decizi întâmplătoare pentru tine! Pentru asta o să ai nevoie de un nou bloc, de **Operaţie**.
 
 ---
-#### ![info](/images/info.png) Ce este o operaţie?
+#### ![info](images/info.png) Ce este o operaţie?
 
 **Operaţile** primesc una sau mai multe valori (ca numere, text, `Adevărat/Fals`) și dau înapoi o singură valoare. Vei ști ce fel de valoare vor rezultă din forma blocului: cele rotunjite rezultă număr sau text, iar cele ascuţite `Adevărat/Fals`.
 
@@ -80,7 +80,7 @@ E mai bine, dar încă este prea multă predictibilitate în mișcările peștel
 + Acum apasă steagul verde și urmărește ce se întâmplă!
 
 --- 
-#### ![info](/images/info.png) Deci ce face acum blocul de "la nesfarșit"?
+#### ![info](images/info.png) Deci ce face acum blocul de "la nesfarșit"?
 
 Blocul de "la nesfarșit" face personajul pește să faca 4 lucruri în ordine:
 1. Să meargă înainte
