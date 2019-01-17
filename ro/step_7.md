@@ -1,33 +1,33 @@
 ## Pește controlat de calculator
-Ok, acum hai să facem peștele să înoate de unul singur. Ca să facem asta, ne trebuie acelasi bloc de **Control** de mai devreme. 
+Ok, acum hai să facem peștele să înoate de unul singur. Pentru a face asta, ne trebuie acelasi bloc de **Control** de mai devreme. 
 
-+ Pentru început selectează personajul pește!
++ Pentru început selectează personajul Pește!
 
-+ Trage un **Eveniment** `când steagul verde este apăsat`{:class="block3events"}, un **Control** `la nesfarșit`{:class="block3control"}, și o **Mișcare** `mergi 10 pași`{:class="block3motion"} în **panoul personajului**, așa: 
++ Trage un **Eveniment** `când se dă click pe steagul verde`{:class="block3events"}, un **Control** `la infinit`{:class="block3control"}, și o **Mișcare** `mergi 10 pași`{:class="block3motion"} în **panoul personajului**, așa: 
 ![blocks_1546569177_729224](images/blocks_1546569177_729224.png)
 
 + Acum apasă pe steagul verde și urmărește ce se întâmplă!
 
-Ei bine, primul tău pește s-a lovit de marginea Scenei, și se mișcă prea repede pentru că un Rechin să îl poată prinde.
+Ei bine, primul tău pește s-a lovit de marginea Scenei și se mișcă prea repede pentru ca un Rechin să îl poată prinde.
 
 Pentru început, trebuie să încetinești peștele. Asta e destul de ușor, trebuie doar să îl pui să aștepte puţin după fiecare 10 pași făcuţi.
 ![blocks_1546569178_800881](images/blocks_1546569178_800881.png)
 
 
-+ Adaugă blocul `așteaptă`{:class="block3control"} în codul tău înăuntrul blocului `la nesfarșit`{:class="block3control"}, și schimbă numărul în `0.5`, astfel:
++ Adaugă blocul `așteaptă`{:class="block3control"} în codul tău înăuntru blocului `la infinit`{:class="block3control"}, și schimbă numărul în `0.5` astfel:
 
 
 ![blocks_1546569179_881654](images/blocks_1546569179_881654.png)
 
 ---
-#### ![info](images/info.png) Ajustari
+#### ![info](images/info.png) Ajustări
 
-Numărul pe care l-ai setat la `așteptare`{:class="block3control"} zice cate **secunde** vrei să aștepte peștele. `0.5` este jumătate de secundă.
+Numărul pe care l-ai setat la `așteptare`{:class="block3control"} zice câte **secunde** vrei să aștepte peștele. `0.5` este jumătate de secundă.
 
-Poţi încerca cu mai multe valori și vezi care se potrivește mai bine pentru jocul tău. Și reţine că poţi schimbă și numărul de pași din blocul `mergi`{:class="block3motion"}!
+Poţi încerca cu mai multe valori șă vezi care se potrivește mai bine pentru jocul tău. Reţine ca poţi schimba și numărul de pași din blocul `mergi`{:class="block3motion"}!
 ---
 
-Peștele se mișcă acum, dar vrei să se și întoarcă când atinge marginea Scenei. Ce noroc că ai un bloc de **Mișcare** pentru asta!
+Peștele se mișcă acum, dar noi vrem să se și întoarcă atunci când atinge marginea Scenei. Ce noroc că avem un bloc de **Mișcare** pentru asta!
 
 + Găsește blocul `dacă atingi marginea întoarce-te`{:class="block3motion"} și adăuga-l după blocul `așteaptă`{:class="block3control"}.
 
@@ -35,12 +35,12 @@ Peștele se mișcă acum, dar vrei să se și întoarcă când atinge marginea S
 ---
 #### ![info](images/info.png) Ce face noul bloc?
 
-Blocul `dacă atingi marginea întoarce-te`{:class="block3motion"} verifica dacă personajul atinge merginea Scenei și, dacă atinge, se întoarce în direcţia opusă.
+Blocul `dacă atingi marginea întoarce-te`{:class="block3motion"}, verifică dacă personajul atinge merginea Scenei și, dacă atinge, se întoarce în direcţia opusă.
 
 ---
 #### ![info](images/info.png) De ce ajunge cu capul în jos?
 
-Problema aici este că pestele începe, ca orice alt personaj, cu **stilul de rotație** 'de jur inprejur', iar ce avem noi nevoie este 'stânga-dreapta'.
+Problema aici este că peștele începe, ca orice alt personaj, cu **stilul de rotație** 'de jur imprejur', iar ce avem noi nevoie este 'stânga-dreapta'.
 
 Ca de obicei, există un bloc pentru asta în categoria **Mișcare**. 
 
@@ -48,24 +48,24 @@ Ca de obicei, există un bloc pentru asta în categoria **Mișcare**.
 
 + Caută in categoria **Mișcare** blocul `setează stilul de rotație`{:class="block3motion"}.
 
-+ Adaugă blocul în codul resetat de mai devreme și seteaza stilul rotației in `left-right` astfel: 
++ Adaugă blocul în codul resetat de mai devreme și seteaza stilul rotației in `stânga-dreapta` astfel: 
 
 ![blocks_1546569176_649717](images/blocks_1546569176_649717.png)
 
 Peștele se mișcă în faţă și în spate acum, dar numai în linie dreaptă — un pic prea ușor pentru jucătorul cu Rechinul! Trebuie să faci peștele mai imprevizibil.
 
-Ști deja din pașii anteriori cum să faci un personaj să se răsucească, începe de acolo!
+Știi deja din pașii anteriori cum să faci un personaj să se răsucească, poți începe de acolo.
 
 + Adaugă o răsucire în mișcarea peștelui, după care apasă steagul verde.
 
 ![blocks_1546569182_10717](images/blocks_1546569182_10717.png)
 
-E mai bine, dar încă este prea multă predictibilitate în mișcările peștelui. Trebuie să fie mai întâmplătoare. Din fericire, Scratch poate să ia decizi întâmplătoare pentru tine! Pentru asta o să ai nevoie de un nou bloc, de **Operaţie**.
+E mai bine, dar încă este prea multă predictibilitate în mișcările peștelui. Trebuie să fie mai întâmplătoare. Din fericire, Scratch poate să ia decizii întâmplătoare pentru tine! Pentru asta o să ai nevoie de un nou bloc, de **Operaţie**.
 
 ---
 #### ![info](images/info.png) Ce este o operaţie?
 
-**Operaţile** primesc una sau mai multe valori (ca numere, text, `Adevărat/Fals`) și dau înapoi o singură valoare. Vei ști ce fel de valoare vor rezultă din forma blocului: cele rotunjite rezultă număr sau text, iar cele ascuţite `Adevărat/Fals`.
+**Operaţile** primesc una sau mai multe valori (de exemplu numere, text, `Adevărat/Fals`) și dau înapoi o singură valoare. Vei știi ce fel de valoare vor rezulta din forma blocului: cele rotunjite rezultă număr sau text, iar cele ascuţite `Adevărat/Fals`.
 
 ![blocks_1546569183_229207](images/blocks_1546569183_229207.png)
 
