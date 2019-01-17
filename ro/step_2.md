@@ -30,7 +30,7 @@ Orice obiect pe care îl poți adăuga pe Scena se cheama **personaj**.
 
 Personajul include:
 * **Imaginea** care îl reprezintă pe Scena
-* Orice extra **costume** mai are
+* Orice extra **costume** mai are el
 * Orice **sunete** asociate cu el
 * Orice **blocuri de cod** asociate cu el ![](images/setup2.png)
 
@@ -46,7 +46,7 @@ Personajul include:
 
 Codul în Scratch este sub forma blocurilor care se conectează pentru a forma un program. Alegi blocuri din **meniul de blocuri de cod**, le tragi în **panoul cu personajul curent**, după care le conectezi cu celelalte.
 
-Sunt 10 categori de blocuri, grupate pe culori. Poţi alege dintre ele apăsând pe obiectele din lista de la începutul **meniului de blocuri de cod**.
+Sunt 10 categorii de blocuri, grupate pe culori. Poţi alege dintre ele apăsând pe obiectele din lista de la începutul **meniului de blocuri de cod**.
 
 --- 
 
@@ -59,24 +59,24 @@ Sunt 10 categori de blocuri, grupate pe culori. Poţi alege dintre ele apăsând
 
 **Personajul curent** este cel selectat în **lista de personaje**.
 
-**Panoul personajului curent** este unde poți vedea codul, costumele, și sunetele personajului selectat.
+**Panoul personajului curent** este unde poți vedea codul, costumele și sunetele personajului selectat.
 
 ---
 
-Timpul să trecem la codat!
+A venit timpul să trecem la codat!
 
-+ În lista de personaje, apasă pe Pisică. Pisica este acum personajul curent.  
++ În lista de personaje, apasă pe Pisică. Pisica a devenit acum personajul curent.
    
-+ Alege categoria de **Evenimente** din meniul de blocuri de cod, apasă blocul `când se apasă steagul verde`{:class="block3events"}, și trage-l în panoul personajului curent.  
++ Alege categoria de **Evenimente** din meniul de blocuri de cod, apasă blocul `când se dă click pe steagul verde`{:class="block3events"}, și trage-l în panoul personajului curent. 
 
 ![blocks_1546569156_389366](images/blocks_1546569156_389366.png)
 
-+ Acum du-te la **Aspecte** în meniul de blocuri de cod și gasește-l pe ăsta:
++ Acum du-te la **Aspecte**, în meniul de blocuri de cod, și gasește-l pe ăsta:
 
 ![blocks_1546569159_4564118](images/blocks_1546569159_4564118.png)
 + Apasă pe el și trage-l în panoul personajului curent.
 
-+ Acum că al doilea bloc este în panoul personajului curent conectează-l la primul bloc, așa:
++ Acum că al doilea bloc este în panoul personajului curent, conectează-l la primul bloc, așa:
 
 ![](images/setup3.png)
 
