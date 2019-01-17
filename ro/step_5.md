@@ -17,7 +17,7 @@ Pentru asta vom avea nevoie de un bloc nou, de tip **control**, să se mute mere
 ![cod modificat](images/blocks_infinit)
 
 ---
-#### ![info](/images/info.png) Ce face noul bloc?
+#### ![info](images/info.png) Ce face noul bloc?
 
 Blocurile de **Control** fac acţiuni în mod repetat de un anumit număr de ori, sau cât timp se respectă anumite condiţi.
 
