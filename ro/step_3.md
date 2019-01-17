@@ -8,7 +8,7 @@ O să găsești toate blocurile în **meniul de blocuri de cod**, sortate în di
 
 
 ---
-#### ![info](/images/info.png) Folosirea blocurilor din mai multe categori
+#### ![info](images/info.png) Folosirea blocurilor din mai multe categori
 
 Apasă pe o categorie ca să vezi blocurile din acea categorie. Aici, categoria **Mișcare** este selectată:
 
@@ -27,7 +27,7 @@ Dacă vrei să vezi ce face un bloc poți să dai dublu-click pe el ca să rulez
 + Încearcă să dai dublu-click pe câteva blocuri ca să vezi ce fac.
 
 ---
-#### ![info](/images/info.png) Rularea codului
+#### ![info](images/info.png) Rularea codului
 
 De obicei codul tău ruleaza automat odată ce un anume lucru se întâmplă. De aceea multe dintre programele tale or să înceapă cu un bloc din categoria **Evenimente**, adesea acesta:
 
@@ -70,7 +70,7 @@ Dacă apeși de prea multe ori pe steag și Pisica o ia la fugă poți să o tra
 ![blocks_1546569163_729716](images/blocks_1546569163_729716.png)
 
 ---
-#### ![info](/images/info.png) Cum funcționează răsucirea?
+#### ![info](images/info.png) Cum funcționează răsucirea?
 
 Acest bloc face personajul să se răsucească 15 grade din cele 360 care formează un cerc. Poţi schimba acest număr, dacă apeși pe el și scri o nouă valoare. 
 ![](images/code9.png)
