@@ -1,6 +1,6 @@
 ## Stabilirea decorului
 
-Scratch are o colecție de decoruri și personaje cu care poți să-ți faci proiectul să arate excelent:
+Hai sa alegem decorul!
 
 + Selectează Scena.
 
