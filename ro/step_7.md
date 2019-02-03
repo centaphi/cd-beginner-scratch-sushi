@@ -1,5 +1,5 @@
 ## Pește controlat de calculator
-Ok, acum hai să facem peștele să înoate de unul singur. Pentru a face asta, ne trebuie acelasi bloc de **Control** de mai devreme. 
+Ok, acum hai să facem peștele să înoate de unul singur.
 
 + Pentru început selectează personajul Pește!
 
