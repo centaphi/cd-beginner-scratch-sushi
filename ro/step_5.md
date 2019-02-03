@@ -1,18 +1,14 @@
-## Moving things around
+## Învățăm să mișcăm personaje
 
-Right now your shark moves in a circle, and it would be much more fun to control it with the arrow keys. On this card, you’re going learn how to do that!
+Să învățăm cum să mișcăm rechinul folosind tastele!
 
-+ Start by deleting all code that you have for the shark.
-
-As you’ve probably guessed, you’re going to need **Event** and **Motion** blocks again! 
-
-+ This time, look for this block and drag it into the current sprite panel:
++ Hai să căutăm blocul de mai jos și sa îl tragem in zona de cod:
 
 ![blocks_1546569164_804841](images/blocks_1546569164_804841.png)
 
-+ Click the little arrow (▼) beside `space`. You will see a list of all your keyboard keys that you can pick from. 
++ Dă click pe săgeata mica (▼) de lângă cuvântul `spațiu`. O să vezi o lista cu toate tastele pe care le poți alege.
 
-You’re going to need four of the `when key pressed`{:class="block3events"} blocks — one for each of your arrow keys. To make your shark move, you'll need to connect these blocks to **Motion** blocks like this: 
+Vei avea nevoie de 4 blocuri `when key pressed`{:class="block3events"} - câte una pentru fiecare săgeată. Pentru a face rechinul tău să se miște, va fi nevoie sa conectezi blocurile astfel:
 
 ![blocks_1546569165_8711412](images/blocks_1546569165_8711412.png)
 
@@ -22,7 +18,7 @@ You’re going to need four of the `when key pressed`{:class="block3events"} blo
 
 ![blocks_1546569169_0910342](images/blocks_1546569169_0910342.png)
 
-**Note**: `-10` means 'go back 10 steps'.
+**Notă**: `-10` înseamnă 'mergi înapoi 10 pași'.
 
 + Add the blocks shown above to your program, and click the green flag to test out your code.
 
