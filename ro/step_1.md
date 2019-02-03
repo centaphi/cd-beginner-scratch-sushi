@@ -16,7 +16,7 @@ Vei crea un joc în care tu controlezi un rechin și încerci sa-l faci să prin
 * Să folosești coordonatele punctului ales de tine pe ecran pentru a poziționa personajele
 * Să modifici înfățișarea scenei și a personajelor folosind costume și comenzi de ascundere/afișare
 * Să ai multiple personaje pe ecran
-* Să folosești iterații `la nesfârșit`{:class="block3control"}
+* Să folosești iterații `la infinit`{:class="block3control"}
 * Să detectezi când personajele se intersectează
 
 ---
